@@ -1,0 +1,19 @@
+body{
+
+  background-image:url("register.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+.nav{
+  background-color: lightgray;
+}
+.user{
+
+padding-top: 20px;
+
+}
+.ml-auto{
+  font-size: 15px;
+  font-family: sans-serif;
+}
