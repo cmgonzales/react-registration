@@ -12,12 +12,12 @@ export default class User extends React.Component {
       <h1>Registration</h1>
       <Form>
         <FormGroup>
-          <Label for="exampleEmail">Name</Label>
-          <Input type="email" name="name" id="exampleEmail" placeholder="Please enter name" />
+          <Label for="name">Name</Label>
+          <Input type="name" name="name" id="exampleEmail" placeholder="Please enter name" />
         </FormGroup>
         <FormGroup>
-          <Label for="examplePassword">Email</Label>
-          <Input type="password" name="email" id="examplePassword" placeholder="Please enter email" />
+          <Label for="exampleEmail">Email</Label>
+          <Input type="email" name="email" id="examplePassword" placeholder="Please enter email" />
         </FormGroup>
         
         <Button>Submit</Button>
